@@ -241,6 +241,11 @@ h6 {
   margin-right: 8px;
 }
 
+.header .logao{
+  max-height: 40px;
+  height: 10px;
+}
+
 .header .logo h1 {
   font-size: 30px;
   margin: 0;
@@ -1843,4 +1848,9 @@ section,
 --------------------------------------------------------------*/
 .starter-section {
   /* Add your styles here */
+}
+
+.logo-pequeno {
+  width: 100px; /* Ajuste a largura desejada */
+  height: auto; /* Mantém a proporção da imagem */
 }
